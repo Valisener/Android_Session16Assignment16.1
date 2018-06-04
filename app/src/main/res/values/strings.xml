@@ -1,0 +1,10 @@
+<resources>
+    <!--App name-->
+    <string name="app_name">ReadWriteFile</string>
+    <!--Add data text for the button-->
+    <string name="btn_add_txt">Add Data</string>
+    <!--Content from file text for the text view-->
+    <string name="txt_content">Content From File</string>
+    <!--Delete file text for the button-->
+    <string name="btn_delete_txt">Delete File</string>
+</resources>
